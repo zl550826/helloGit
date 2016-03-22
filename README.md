@@ -1,2 +1,2 @@
 # helloGit
-Create a new branch is quick & Simple!
+Create a new branch is Quick And Simple!
