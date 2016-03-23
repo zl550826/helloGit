@@ -1,3 +1,3 @@
-# this time, we want do something interesting!
-  and this time,we know do it with merge!
-  reedit the content by dev branch! 
+ this time, we want do something interesting!
+ and this time,we know do it with merge!
+Git is a free software! 
