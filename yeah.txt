@@ -1,1 +1,2 @@
-# this time, we want do something intresting! 
+# this time, we want do something interesting!
+  and this time,we know do it with merge! 
