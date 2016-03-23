@@ -1,3 +1,2 @@
-# this time, we want do something interesting!
-  and this time,we know do it with merge!
-  reedit the content by dev branch! 
+step1. We do something interesting!
+step2. I reedited the content. 
